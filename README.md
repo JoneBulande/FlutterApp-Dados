@@ -1,5 +1,9 @@
 ## App Flutter: Lançamento de Dados
 
+<p align="center">
+  <img alt="JoneCare" src="./assets/dadosApp_Mockups.png" width="100%">
+</p>
+
 **Descrição:**
 
 Este aplicativo simples foi desenvolvido em Flutter e simula o lançamento de dois dados. Ao clicar no botão "Lançar", duas faces aleatórias são geradas, uma para cada dado.
